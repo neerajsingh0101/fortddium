@@ -1,0 +1,11 @@
+record1:
+ order_id: 1
+ transaction_gid: 21786353
+ amount: 100.0
+ creditcard_id: 200
+ status: t
+ params: ! '---
+ amount: 106.00
+ creditcard_id: 1
+ active: true
+ status: authorized

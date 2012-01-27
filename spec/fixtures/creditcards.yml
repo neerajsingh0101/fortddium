@@ -1,0 +1,4 @@
+record1:
+ masked_number: XXXX-XXXX-XXXX-0027
+ expires_on: <%= 2.months.from_now %>
+ cardtype: visa
